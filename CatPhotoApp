@@ -1,0 +1,5 @@
+ <label><input id="indoor" type="name"> Indoor</label>
+          <label><input id="outdoor" type="name"> Outdoor</label>
+          
+          
+          
