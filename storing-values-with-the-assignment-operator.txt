@@ -1,0 +1,6 @@
+// Setup
+var a;
+a = 7; // The variable 'a' is equal to 5
+
+ // The variable 'abc' is equal to 123
+// Only change code below this line
